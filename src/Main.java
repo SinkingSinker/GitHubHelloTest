@@ -4,5 +4,6 @@ public class Main {
         System.out.println("test2");
         System.out.println("Push 1");
         System.out.println("push 4");
+        System.out.println("push 3");
     }
 }
